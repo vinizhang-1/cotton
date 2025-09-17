@@ -21,9 +21,9 @@ By integrating an improved YOLO network with a fine-tuned large language model, 
 
 ### 1. Configure Environment
 Create and activate a Python environment, then install dependencies:
-'''bash
-pip install -r requirements.txt '''
-
+```bash
+pip install -r requirements.txt
+```
 
 ### 2. Download Dataset
 
@@ -43,6 +43,7 @@ Choose the suitable YOLO `best.py` script for your task. This file can be replac
 Execute the main script to start detection and diagnosis:
 ```bash
 python all.py
+```
 
 ## Acknowledgements
 

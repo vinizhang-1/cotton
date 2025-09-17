@@ -21,8 +21,8 @@ By integrating an improved YOLO network with a fine-tuned large language model, 
 
 ### 1. Configure Environment
 Create and activate a Python environment, then install dependencies:
-
-pip install -r requirements.txt
+'''bash
+pip install -r requirements.txt '''
 
 
 ### 2. Download Dataset

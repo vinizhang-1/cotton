@@ -45,6 +45,11 @@ Execute the main script to start detection and diagnosis:
 python all.py
 ```
 
+
+## Result
+
+<img width="554" height="260" alt="image" src="https://github.com/user-attachments/assets/97b5b3e8-c762-447e-9c4d-005e8e5f80ba" />
+
 ## Acknowledgements
 
 Special thanks to everyone who has contributed to this project.

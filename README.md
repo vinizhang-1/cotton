@@ -23,3 +23,27 @@ By integrating an improved YOLO network with a fine-tuned large language model, 
 Create and activate a Python environment, then install dependencies:
 ```bash
 pip install -r requirements.txt
+
+
+### 2. Download Dataset
+
+Prepare the cotton leaf disease dataset.
+
+
+### 3. Weights
+Select the appropriate weights according to your task and place them in the `./output/Qwen3-1.7B/` directory.
+
+### 4. YOLO best.py
+
+Choose the suitable YOLO `best.py` script for your task. This file can be replaced based on your specific requirements.
+
+
+### 5. Run all.py
+
+Execute the main script to start detection and diagnosis:
+```bash
+python all.py
+
+## Acknowledgements
+
+Special thanks to everyone who has contributed to this project.
